@@ -27,6 +27,7 @@ while True:
                 break
     preguntar_si_salir = input('Desea terminar el juego? S/N ')
     if preguntar_si_salir == 'S':
+        print('Adios, gracias por dejar el dinero!!!!!!')
         break
     else:
         print('\n'*20)
